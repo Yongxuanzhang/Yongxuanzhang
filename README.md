@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Yongxuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongxuanzhang&theme=calm&show_icons=true)
+![Yongxuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongxuanzhang&theme=calm&show_icons=true)(https://github.com/Yongxuanzhang/github-readme-stats)
